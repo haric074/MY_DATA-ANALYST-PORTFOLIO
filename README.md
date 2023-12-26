@@ -51,9 +51,21 @@
 ### 💻 Projects : 
 ![Power Bi](https://img.shields.io/badge/power_bi_projects-F2C812?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[![Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis/Top_Bottom.png)](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis)
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <div style="text-align: center;">
+    <h1 style="font-size: 15px;">Customer End to End Sales Analysis</h1>
+    <a href="https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis">
+      <img src="https://i.imgur.com/s3sd1nm.png" title="source: imgur.com" width="200" height="200" />
+    </a>
+  </div>
 
-[![Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Nike_DA/pngimg.com%20-%20nike_PNG11.png)](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Nike_DA)
+  <div style="text-align: center;">
+    <h2 style="font-size: 15px;">Nike Sneaker's Library 👟</h2>
+    <a href="https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Nike_DA">
+      <img src="https://i.imgur.com/N4HZUZm.png" title="source: imgur.com" width="240" height="180" />
+    </a>
+  </div>
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm)](https://github.com/notramm/github-readme-stats)
