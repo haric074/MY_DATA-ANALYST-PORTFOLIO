@@ -1,9 +1,38 @@
-<img align='left' src="https://avatars.githubusercontent.com/u/56423111?v=4" width="240" style="border-radius: 50%;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh; /* 100% of the viewport height */
+      margin: 0;
+    }
 
+    img {
+      width: 240px;
+      border-radius: 50%;
+    }
 
-<h2> Hi, I'm HariHara Sudhan!👋 </h2>
+    h2, h3 {
+      text-align: center;
+    }
+  </style>
+  <title>Profile</title>
+</head>
+<body>
 
-<h3># Welcome to my Github profile</h3>
+  <img src="https://avatars.githubusercontent.com/u/56423111?v=4" alt="Profile Picture">
+  
+  <h2>Hi, I'm HariHara Sudhan!👋</h2>
+  <h3># Welcome to my Github profile</h3>
+
+</body>
+</html>
 
 🔭 Experienced Data Engineer looking to pivot into a Data Analyst role, bringing strong technical skills to analyze data effectively. Skilled in designing and implementing data processing systems, I am excited to contribute analytical expertise to the field of data analysis
 
@@ -18,7 +47,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### 📈 DA & DS
+### 📈 DA 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,7 +74,8 @@
 
 ### 💻IDE's/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm)](https://github.com/notramm/github-readme-stats)
