@@ -3,7 +3,7 @@
 
 <h2> Hi, I'm HariHara Sudhan!👋 </h2>
 
-<h3># Welcome to my Github profile</h3>
+<h3># Welcome to my Github Portfolio</h3>
 
 🔭 Experienced Data Engineer looking to pivot into a Data Analyst role, bringing strong technical skills to analyze data effectively. Skilled in designing and implementing data processing systems, I am excited to contribute analytical expertise to the field of data analysis
 
