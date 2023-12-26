@@ -51,9 +51,9 @@
 ### 💻 Projects : 
 ![Power Bi](https://img.shields.io/badge/power_bi_projects-F2C812?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis)
+[![Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis/Top_Bottom.png)](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis)
 
-[Nike Sneakers Library](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Nike_DA)
+[![Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/blob/main/POWER%20BI/Nike_DA/pngimg.com%20-%20nike_PNG11.png)](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Nike_DA)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm)](https://github.com/notramm/github-readme-stats)
