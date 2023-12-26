@@ -1,38 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh; /* 100% of the viewport height */
-      margin: 0;
-    }
+<img align='left' src="https://avatars.githubusercontent.com/u/56423111?v=4" width="240" style="border-radius: 50%;">
 
-    img {
-      width: 240px;
-      border-radius: 50%;
-    }
 
-    h2, h3 {
-      text-align: center;
-    }
-  </style>
-  <title>Profile</title>
-</head>
-<body>
+<h2> Hi, I'm HariHara Sudhan!👋 </h2>
 
-  <img src="https://avatars.githubusercontent.com/u/56423111?v=4" alt="Profile Picture">
-  
-  <h2>Hi, I'm HariHara Sudhan!👋</h2>
-  <h3># Welcome to my Github profile</h3>
-
-</body>
-</html>
+<h3># Welcome to my Github profile</h3>
 
 🔭 Experienced Data Engineer looking to pivot into a Data Analyst role, bringing strong technical skills to analyze data effectively. Skilled in designing and implementing data processing systems, I am excited to contribute analytical expertise to the field of data analysis
 
@@ -76,6 +47,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+
+### 💻 Projects : 
+![Power Bi](https://img.shields.io/badge/power_bi_projects-F2C812?style=for-the-badge&logo=powerbi&logoColor=black)
+
+[Customer_End_2_End_sales_Data_Analysis](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis)
+
+[Nike Sneakers Library](https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Nike_DA)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notramm)](https://github.com/notramm/github-readme-stats)
