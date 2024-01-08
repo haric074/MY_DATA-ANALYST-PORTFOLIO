@@ -42,6 +42,7 @@
 ### 🔬 Version Control and CI/CD
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23FF6600.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 💻IDE's/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -78,6 +79,13 @@
     <h1 style="font-size: 15px;">Customer End to End Sales Analysis</h1>
     <a href="https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Customer_End_2_End_sales_Data_Analysis">
       <img src="https://i.imgur.com/s3sd1nm.png" title="source: imgur.com" width="310" height="160" />
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h1 style="font-size: 15px;">Myntra Sales Analysis</h1>
+    <a href="https://github.com/haric074/MY_DATA-ANALYST-PORTFOLIO/tree/main/POWER%20BI/Myntra_DA">
+      <img src="https://i.imgur.com/jxsyUxM.png" title="source: imgur.com" width="310" height="160" />
     </a>
   </div>
 </div>
